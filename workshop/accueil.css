@@ -1,0 +1,54 @@
+/* css external */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* call with tag name */
+body{
+    /* verification du  css  */
+    /* background-color: rgb(255, 0, 238); */ 
+}
+/*header style*/
+header{
+   border-style:solid ;    
+height: 50px;
+}
+
+
+
+li{
+    display: inline;
+    list-style: none;
+}
+
+/*main style*/
+main{
+    border-style: dotted;
+    border-color: brown;
+    
+    
+}
+.main_table_left{
+
+width: 30pc;
+height: 22pc ;
+border-style: left;
+justify-content: center;
+
+}
+.main_section{
+
+background-color: darkcyan;
+
+}
+
+/* /* #id1{
+    border-style: solid;
+    border-color: #ffffff; */
+/* } */
+/* call with class name */
+.partie1{
+    border-color: #fffb00;
+    border-style: solid;
+    border-width:  2px ;
+}
